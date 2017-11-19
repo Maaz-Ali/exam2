@@ -1,0 +1,18 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Responsive Layout</title>
+<style>
+
+/********** Base style ***********/
+*{
+	box-sizing: border-box;
+}
+h1 {
+	margin-bottom: 15px;
+}
+
+P {
+	border: 1px solid black;
+}
